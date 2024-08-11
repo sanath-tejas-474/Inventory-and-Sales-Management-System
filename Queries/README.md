@@ -71,13 +71,3 @@ This project is designed to manage and analyze product inventory, supplier infor
 **Question**: *What measures are in place to ensure data security and control access to sensitive information?*
 
 **Explanation**: Data security and access control are managed through user permissions and roles. Sensitive data is protected, and access is restricted based on user roles to ensure data security.
-
-## Creating Screenshots for Documentation
-
-To create screenshots for your documentation, capture:
-
-1. **Database Schema**: Show the schema or ERD (Entity-Relationship Diagram) that illustrates the relationships between tables.
-2. **Query Results**: Capture the results of SELECT queries to display sample data from each table.
-3. **Index Information**: If applicable, show indexes created on tables to demonstrate performance improvements.
-4. **View Definitions**: Capture views and their results to illustrate simplified query access.
-5. **Historical Data**: Show how historical data is tracked and viewed through the Inventory Transactions table.
